@@ -1,5 +1,5 @@
 #vendors
-./vendors/*
+vendor/*
 
 #composer
 composer.lock
