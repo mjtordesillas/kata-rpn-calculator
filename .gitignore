@@ -1,0 +1,8 @@
+#vendors
+./vendors/*
+
+#composer
+composer.lock
+
+#ide
+.idea/*
