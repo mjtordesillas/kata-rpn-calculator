@@ -1,6 +1,6 @@
 <?php
 
-use DefaultNamespace\DefaultClass;
+use RPNCalculator\DefaultClass;
 
 class DefaultTestTest extends \PHPUnit\Framework\TestCase
 {

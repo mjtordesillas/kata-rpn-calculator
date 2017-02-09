@@ -1,6 +1,6 @@
 <?php
 
-namespace DefaultNamespace;
+namespace RPNCalculator;
 
 class DefaultClass
 {
