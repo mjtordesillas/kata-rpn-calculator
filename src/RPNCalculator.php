@@ -17,7 +17,7 @@ class RPNCalculator
                 array_push($outputArray, $value);
             }
         }
-        
+
         $output = implode(' ', $outputArray);
 
         return $output;
